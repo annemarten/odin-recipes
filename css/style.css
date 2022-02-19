@@ -115,6 +115,12 @@
             color: white;
         }
         
+        nav a.active,
+        nav a.active {
+            background-color: indianred;
+            color: white;
+        }
+        
         .wrapper {
             max-width: 1024px;
             margin: 0px auto;
